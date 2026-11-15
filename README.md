@@ -154,8 +154,17 @@ Example request body for `POST /student/add`:
 - Additional fields (course, date of birth, phone number)
 - Unit and integration tests
 
-## Author
+## 👤 Author
+
+GitHub: [@chathuranga-K](https://github.com/chathuranga-K)
+
 I built this project to practise full-stack Java development with Spring Boot, covering layered architecture, database integration with JPA, server-side validation and building a UI with Thymeleaf.
 
-**[Chathuranga Kalhara]**
-GitHub: [@chathuranga-K](https://github.com/chathuranga-K)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chathurang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/chathuranga-K" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
